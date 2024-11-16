@@ -1,8 +1,8 @@
-# Nidhi D Portfolio
+# Portfolio
 
 ## Overview
 
-Welcome to the portfolio of Nidhi Dinesh! This portfolio website showcases her academic background, skills, and certifications. The site is designed with a clean and modern layout using HTML, CSS, and JavaScript, and it features a responsive design to ensure a seamless experience across various devices.
+Welcome to the portfolio of Shikhar Shetty! This portfolio website showcases her academic background, skills, and certifications. The site is designed with a clean and modern layout using HTML, CSS, and JavaScript, and it features a responsive design to ensure a seamless experience across various devices.
 
 ## Technologies Used
 
@@ -24,12 +24,12 @@ To view and run this portfolio website locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gaureshpai/Nidhi.git
+   git clone https://github.com/gaureshpai/Nidhi/Responsive-Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Nidhi
+   cd Responsive-Portfolio
    ```
 
 3. **Open the `index.html` file in your web browser**.
@@ -53,4 +53,4 @@ Contributions are welcome! If you'd like to contribute to this project:
 
 For any questions or feedback, please contact:
 
-- **Email**: [dineshnidhi2605@gmail.com](mailto:dineshnidhi2605@gmail.com)
+- **Email**: [shettyshikhar99@gmail.com](mailto:shettyshikhar99@gmail.com)
