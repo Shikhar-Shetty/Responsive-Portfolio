@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## Portfolio
+=======
+# Portfolio
+>>>>>>> df963759d4822256046fa973aac6509cfe8173d7
 
 ## Overview
 
@@ -24,12 +28,12 @@ To view and run this portfolio website locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gaureshpai/Nidhi.git
+   git clone https://github.com/Shikhar-Shetty/Responsive-Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd Nidhi
+   cd Responsive-Portfolio
    ```
 
 3. **Open the `index.html` file in your web browser**.
