@@ -24,7 +24,7 @@ To view and run this portfolio website locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/gaureshpai/Nidhi/Responsive-Portfolio.git
+   git clone https://github.com/Shikhar-Shetty/Responsive-Portfolio.git
    ```
 
 2. **Navigate to the project directory**:
