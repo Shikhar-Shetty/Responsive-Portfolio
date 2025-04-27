@@ -6,7 +6,7 @@
 
 ## Overview
 
-Welcome to the portfolio of Shikhar Shetty! This portfolio website showcases her academic background, skills, and certifications. The site is designed with a clean and modern layout using HTML, CSS, and JavaScript, and it features a responsive design to ensure a seamless experience across various devices.
+Welcome to the portfolio of Shikhar Shetty! This portfolio website showcases his academic background, skills, and certifications. The site is designed with a clean and modern layout using HTML, CSS, and JavaScript, and it features a responsive design to ensure a seamless experience across various devices.
 
 ## Technologies Used
 
